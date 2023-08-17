@@ -16,7 +16,6 @@
 
 </div>
 
-#
 
 ## Linguagens e Ferramentas
 <div>
