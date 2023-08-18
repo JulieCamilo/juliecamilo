@@ -27,9 +27,3 @@
 
 </div>
 
-#
-<h1 align="center">
-  
-![Status linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliecamilo&layout=compact&theme=dracula)
-
-</h1>
