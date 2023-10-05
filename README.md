@@ -1,6 +1,6 @@
 # Olá! Seja Bem-vindo(a)!
 
-### Meu nome é Julie Camilo, tenho 18 anos e moro em São Paulo - SP
+###Meu nome é Julie Camilo, tenho 18 anos e moro em São Paulo - SP
 
 - 👩‍🎓Técnica em tecnologia da informação pelo Senac
 - 💻Projetos em Front-End e Back-End
