@@ -4,7 +4,7 @@
 
 - 👩‍🎓Técnica em tecnologia da informação pelo Senac
 - 💻Projetos em Front-End e Back-End
-- 📚Atualmente estudando Javascript
+- 📚Atualmente estudando Javascript e Java
 - Permaneça e venha conhecer meus projetos :)
 
 
@@ -14,8 +14,10 @@
       <img align="center" alt="Julie-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       <img align="center" alt="Julie-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       <img align="center" alt="Julie-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+       <img align="center" alt="Julie-JAVA" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
       <img align="center" alt="Julie-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img align="center" alt="Julie-JAVA" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+      <img align="center" alt="Julie-ITJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+
 
 
 </div>
